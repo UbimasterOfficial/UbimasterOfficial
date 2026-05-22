@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Front-End developer & a UX/UI designer <br>👯 I’m looking to collaborate on UX/UI & Front-End development projects<br>🤝 I’m looking for help with learning more programming languages<br>🌱 I’m currently learning about Machine Learning & related subjects<br>💬 Ask me about how to create a creative world<br>⚡ Fun fact - I’m not fast, but smart
+🚀 I’m currently working as a DevOps & Cloud Engineer, building scalable and reliable cloud solutions <br>☁️ Passionate about AWS, Docker, Kubernetes, Terraform, and cloud-native technologies<br>🛠️ I enjoy automating workflows, managing CI/CD pipelines, and optimizing deployment processes<br>📚 Currently learning advanced cloud architecture, monitoring tools, and infrastructure automation<br>🤝 Open to collaborating on DevOps, Cloud, and Backend development projects<br>⚡ Fun fact - I love turning complex infrastructure into simple automated solutions
 
 
 ## 🌐 Socials:
